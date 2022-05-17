@@ -1,0 +1,6 @@
+project: rnshah9/houndsniff
+target: houndsniff
+
+cmds:
+  - cmd: /repo/src/houndsniff -s
+    # filepath: /test.c

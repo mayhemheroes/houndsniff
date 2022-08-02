@@ -1,4 +1,4 @@
-project: rnshah9/houndsniff
+project: houndsniff
 target: houndsniff
 
 cmds:

@@ -2,4 +2,4 @@ project: houndsniff
 target: houndsniff
 
 cmds:
-  - cmd: /repo/src/houndsniff -s
+  - cmd: /houndsniff -s

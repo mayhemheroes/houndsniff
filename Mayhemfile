@@ -1,5 +1,5 @@
-project: rnshah9/houndsniff
+project: houndsniff
 target: houndsniff
 
 cmds:
-  - cmd: /repo/src/houndsniff -s
+  - cmd: /houndsniff -s
